@@ -65,6 +65,7 @@ typings/
 *.tgz
 
 # Yarn Integrity file
+yarn.lock
 .yarn-integrity
 .yarn.lock
 
