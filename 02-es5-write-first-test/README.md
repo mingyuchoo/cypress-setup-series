@@ -1,4 +1,4 @@
-# 01-es5-added-lint
+# 02-es5-page-object-model
 
 ## How to start
 
