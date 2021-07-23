@@ -1,15 +1,28 @@
 # 03-es5-add-more
 
+## How to install modules
+
+```bash
+yarn install
+rm -rf node_modules
+yarn install --offline
+```
+
 ## How to start
 
-- `yarn`
-- `yarn cypress:version`
-- `yarn cypress:verify`
+```bash
+yarn cypress:version
+yarn cypress:verify
+```
 
 ## How to make test
 
-- `yarn cypress:open`
+```bash
+yarn cypress:open
+```
 
 ## How to run test
 
-- `yarn cypress:run`
+```bash
+yarn cypress:run
+```
